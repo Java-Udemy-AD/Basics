@@ -1,0 +1,1 @@
+This repo's for holding basic code exercises from a Udemy course on Java. Just refreshing myself on some core concepts. More elaborate projects will have their own repos in the org. 
